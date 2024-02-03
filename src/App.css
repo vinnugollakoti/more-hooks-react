@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+}
+.tododiv {
+    width: 100%;
+    height: 60px;
+    background-color: bisque;
+    padding-top: 10px;
+}
+.inputway {
+    margin-left: 37px;
+}
